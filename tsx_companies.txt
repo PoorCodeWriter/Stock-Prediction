@@ -1,0 +1,291 @@
+Symbol	Name
+SU.TO	Suncor Energy Inc.
+CNQ.TO	Canadian Natural Resources Limited
+RCI-B.TO	Rogers Communications Inc.
+CPG.TO	Crescent Point Energy Corp.
+MFC.TO	Manulife Financial Corporation
+BNS.TO	The Bank of Nova Scotia
+SLF.TO	Sun Life Fianancial Inc.
+CM.TO	Canadian Imperial Bank of Commerce
+TD.TO	The Toronto-Dominion Bank
+CVE.TO	Cenovus Energy Inc.
+BN.TO	Brookfield Corporation
+SHOP.TO	Shopify Inc.
+ABX.TO	Barrick Gold Corporation
+CNR.TO	Canadian National Railway Company
+LUN.TO	Lundin Mining Corporation
+BTE.TO	Baytex Energy Corp.
+ENB.TO	Enbridge Inc.
+NTR.TO	Nutrien Ltd.
+K.TO	Kinross Gold Corporation
+AQT.TO	Algonquin Power & Utilities Corp.
+ARX.TO	Arc Resources Inc.
+BCE.TO	BCE Inc.
+TECK-B.TO	Teck Resources Limited
+ATH.TO	Athabasca Oil Corporation
+FM.TO	First Quantum Minerals Ltd.
+T.TO	TELUS Corporation
+BTO.TO	B2Gold Corp.
+GWO.TO	Great-West Lifeco Inc.
+NXE.TO	NexGen Energy Ltd.
+CCO.TO	Camerco Corporation
+NA.TO	National Bank of Canada
+AC.TO	Air Canada
+TOU.TO	Tourmaline Oil Corp.
+TVE.TO	Tamarack Valley Energy Ltd.
+DML.TO	Denison Mines Corp.
+TCW.TO	Trican Well Service Ltd.
+WEED.TO	Canopy Growth Corporation
+BIR.TO	Birchcliff Energy Ltd.
+BMO.TO	Bank of Montreal
+WCP.TO	Whitecap Resources Inc.
+AEM.TO	Agnico Eagle Mines Limited
+QSR.TO	Restaurant Brands International Inc.
+ATD.TO	Alimentation Couche-Tard Inc.
+HUT.TO	Hut 8 Mining Corp.
+CTS.TO	Converge Technology Solutions Corp.
+BAM.TO	Brookfield Asset Management Ltd.
+MEG.TO	MEG Energy Corp.
+CJR-B.TO	Corus Entertainment Inc.
+SPB.TO	Superior Plus Corp.
+L.TO	Loblaw Companies Limited
+AAB.TO	Aberdeen International Inc.
+HWX.TO	Headwater Exploration Inc.
+KEY.TO	Keyera Corp
+CAE.TO	CAE Inc.
+XLY.TO	Auxly Cannabis Group Inc.
+CXB.TO	Calibre Mining Corp.
+HBM.TO	Hudbay Minerals Inc.
+FCU.TO	Fission Uranium Corp.
+IMO.TO	Imperial Oil Limited
+OSK.TO	Osisko Mining Inc.
+VET.TO	Vermilion Energy Inc.
+TLRY.TO	Tilray Brands, Inc.
+ESM.TO	Euro Sun Mining Inc.
+RY.TO	Royal Bank of Canada
+BIR.TO	Birchcliff Energy Ltd.
+LSPD.TO	Lightspeed Commerce Inc.
+BCE.TO	BCE Inc.
+BB.TO	BlackBerry Limited
+PPL.TO	Pembina Pipeline Corporation
+FTS.TO	Fortis Inc.
+PLTR	Palantir Technologies Inc.
+TSLA	Tesla, Inc.
+F	Ford Motor Company
+AFRM	Affirm Holdings, Inc.
+AMZN	Amazon.com, Inc.
+AMD	Advanced Micro Devices, Inc.
+SOFI	SoFi Technologies, Inc.
+NIO	NIO Inc.
+CS	Credit Suisse Group AG
+AAPL	Apple Inc.
+NVDA	NVIDIA Corporation
+AI	C3.ai, Inc.
+PLUG	Plug Power Inc.
+CCL	Carnival Corporation & plc
+LCID	Lucid Group, Inc.
+GOOGL	Alphabet Inc.
+BAC	Bank of America Corporation
+NU	Nu Holdings Ltd.
+FISV	Fiserv, Inc.
+MSFT	Microsoft Corporation
+T	AT&T Inc.
+U	Unity Software Inc.
+PBR	Petróleo Brasileiro S.A. - Petrobras
+DNA	Ginkgo Bioworks Holdings, Inc.
+CVNA	Carvana Co.
+IMO.TO	Imperial Oil Limited
+BBD-B.TO	Bombardier Inc.
+CS.TO	Capstone Copper Corp.
+FVI.TO	Fortuna Silver Mines Inc.
+FAF.TO	Fire & Flower Holdings Corp.
+AGI.TO	Alamos Gold Inc.
+RY-PH.TO	Royal Bank of Canada
+TAIG.TO	Taiga Motors Corporation
+OTEX.TO	Open Text Corporation
+TRP.TO	TC Energy Corporation
+BLDP.TO	Ballard Power Systems Inc
+PIPE.TO	Pipestone Energy Corp.
+SPB.TO	Superior Plus Corp.
+CP.TO	Canadian Pacific Kansas City Limited
+TOU.TO	Tourmaline Oil Corp.
+AEM.TO	Agnico Eagle Mines Limited
+AIM.TO	Aimia Inc.
+ANRG.TO	Anaergia Inc.
+NA.TO	National Bank of Canada
+H.TO	Hydro One Limited
+NUMI.TO	Numinus Wellness Inc.
+CXB.TO	Calibre Mining Corp.
+ACB.TO	Aurora Cannabis Inc.
+AR.TO	Argonaut Gold Inc.
+HBM.TO	Hudbay Minerals Inc.
+MPVD.TO	Mountain Province Diamonds Inc.
+KNT.TO	K92 Mining Inc.
+NXE.TO	NexGen Energy Ltd.
+AAV.TO	Advantage Energy Ltd.
+IMG.TO	IAMGOLD Corporation
+PPR.TO	Prairie Provident Resources Inc.
+TRP-PE.TO	TC Energy Corp
+PEY.TO	Peyto Exploration & Development Corp.
+ELD.TO	Eldorado Gold Corporation
+FR.TO	First Majestic Silver Corp.
+TRP-PD.TO	TC Energy Corp
+ATD.TO	Alimentation Couche-Tard Inc.
+BAM.TO	Brookfield Asset Management Ltd.
+CIX.TO	CI Financial Corp.
+OGC.TO	OceanaGold Corporation
+LAC.TO	Lithium Americas Corp.
+CLS.TO	Celestica Inc.
+LUC.TO	Lucara Diamond Corp.
+AX-UN.TO	Artis Real Estate Investment Trust
+GOOS.TO	Canada Goose Holdings Inc.
+EMA.TO	Emera Incorporated
+EFN.TO	Element Fleet Management Corp.
+ONEX.TO	Onex Corporation
+AMC.TO	Arizona Metals Corp.
+NWH-UN.TO	NorthWest Healthcare Properties Real Estate Investment Trust
+SCL.TO	Shawcor Ltd.
+BSX.TO	Belo Sun Mining Corp
+MNO.TO	Meridian Mining UK Societas
+NVA.TO	NuVista Energy Ltd.
+IVN.TO	Ivanhoe Mines Ltd.
+CMMC.TO	Copper Mountain Mining Corporation
+AYA.TO	Aya Gold & Silver Inc.
+GEI.TO	Gibson Energy Inc.
+CAE.TO	CAE Inc.
+LEV.TO	The Lion Electric Company
+REAL.TO	Real Matters Inc.
+SKE.TO	Skeena Resources Limited
+NPI.TO	Northland Power Inc.
+CCM.TO	Canagold Resources Ltd.
+EFR.TO	Energy Fuels Inc.
+FSZ.TO	Fiera Capital Corporation
+PAAS.TO	Pan American Silver Corp.
+TNT-UN.TO	True North Commercial Real Estate Investment Trust
+WPM.TO	Wheaton Precious Metals Corp.
+QSR.TO	Restaurant Brands International Inc.
+NCP.TO	Nickel Creek Platinum Corp.
+RBA.TO	RB Global, Inc.
+GWO.TO	Great-West Lifeco Inc.
+DOO.TO	BRP Inc.
+TAL.TO	PetroTal Corp.
+PSK.TO	PrairieSky Royalty Ltd.
+DOL.TO	Dollarama Inc.
+MRU.TO	Metro Inc.
+AOI.TO	Africa Oil Corp.
+PKK.CN	Tenet Fintech Group Inc.
+ATZ.TO	Aritzia Inc.
+ERF.TO	Enerplus Corporation
+DPM.TO	Dundee Precious Metals Inc.
+TRZ.TO	Transat A.T. Inc.
+EMP-A.TO	Empire Company Limited
+U-UN.TO	Sprott Physical Uranium Trust Fund
+DFN.TO	Dividend 15 Split Corp.
+IIP-UN.TO	InterRent Real Estate Investment Trust
+CRDL.TO	Cardiol Therapeutics Inc.
+SVI.TO	StorageVault Canada Inc.
+WLLW.TO	Willow Biosciences Inc.
+GXE.TO	Gear Energy Ltd.
+CF.TO	Canaccord Genuity Group Inc.
+AP-UN.TO	Allied Properties Real Estate Investment Trust
+GLO.TO	Global Atomic Corporation
+FTT.TO	Finning International Inc.
+POW.TO	Power Corporation of Canada
+TLO.TO	Talon Metals Corp.
+MG.TO	Magna International Inc.
+SGY.TO	Surge Energy Inc.
+CSH-UN.TO	Chartwell Retirement Residences
+ECN.TO	ECN Capital Corp.
+NFI.TO	NFI Group Inc.
+TCN.TO	Tricon Residential Inc.
+HR-UN.TO	H&R Real Estate Investment Trust
+NVEI.TO	Nuvei Corporation
+EDR.TO	Endeavour Silver Corp.
+VQS.TO	VIQ Solutions Inc.
+KEY.TO	Keyera Corp.
+ENB-PFA.TO	Enbridge Inc.
+ALA.TO	AltaGas Ltd.
+XTRA.TO	Xtract One Technologies Inc.
+CFP.TO	Canfor Corporation
+CHE-UN.TO	Chemtrade Logistics Income Fund
+TA.TO	TransAlta Corporation
+WEF.TO	Western Forest Products Inc.
+TXG.TO	Torex Gold Resources Inc.
+MGA.TO	Mega Uranium Ltd.
+CIA.TO	Champion Iron Limited
+CU.TO	Canadian Utilities Limited
+S.TO	Sherritt International Corporation
+EQX.TO	Equinox Gold Corp.
+WDO.TO	Wesdome Gold Mines Ltd.
+CG.TO	Centerra Gold Inc.
+NGD.TO	New Gold Inc.
+MDA.TO	MDA Ltd.
+CHP-UN.TO	Choice Properties Real Estate Investment Trust
+GIL.TO	Gildan Activewear Inc.
+SSL.TO	Sandstorm Gold Ltd.
+RNW.TO	TransAlta Renewables Inc.
+TXP.TO	Touchstone Exploration Inc.
+REI-UN.TO	RioCan Real Estate Investment Trust
+ENS-PA.TO	E Split Corp.
+NPK.TO	Verde AgriTech Ltd
+ESI.TO	Ensign Energy Services Inc.
+FCR-UN.TO	First Capital Real Estate Investment Trust
+NXR-UN.TO	Nexus Industrial REIT
+MRE.TO	Martinrea International Inc.
+CRON.TO	Cronos Group Inc.
+GFL.TO	GFL Environmental Inc.
+ENB-PJ.TO	Enbridge Inc.
+AFRM	Affirm Holdings, Inc.
+PLTR	Palantir Technologies Inc.
+TSLA	Tesla, Inc.
+ROKU	Roku, Inc.
+NFLX	Netflix, Inc.
+MSFT	Microsoft Corporation
+YEXT	Yext, Inc.
+FARM	Farmer Bros. Co.
+AUR	Aurora Innovation, Inc.
+GME	GameStop Corp.
+NET	Cloudflare, Inc.
+AMZN	Amazon.com, Inc.
+CPB	Campbell Soup Company
+GOOG	Alphabet Inc.
+MOBQ	Mobiquity Technologies, Inc.
+SFIX	Stitch Fix, Inc.
+PLAY	Dave & Buster's Entertainment, Inc.
+V	Visa Inc.
+UNFI	United Natural Foods, Inc.
+SMCI	Super Micro Computer, Inc.
+SWK	Stanley Black & Decker, Inc.
+F	Ford Motor Company
+^IXIC	NASDAQ Composite
+GOOGL	Alphabet Inc.
+IEP	Icahn Enterprises L.P.
+VXRT	Vaxart, Inc.
+MCRB	Seres Therapeutics, Inc.
+APRN	Blue Apron Holdings, Inc.
+GETY	Getty Images Holdings, Inc.
+ZLAB	Zai Lab Limited
+APP	AppLovin Corporation
+PATH	UiPath Inc.
+BCLYF	Barclays PLC
+NET	Cloudflare, Inc.
+DDOG	Datadog, Inc.
+UPST	Upstart Holdings, Inc.
+CPB	Campbell Soup Company
+AI	C3.ai, Inc.
+LSRCY	Lasertec Corporation
+CNXC	Concentrix Corporation
+DUOL	Duolingo, Inc.
+ECX	ECARX Holdings Inc.
+SNOW	Snowflake Inc.
+STAA	STAAR Surgical Company
+AYX	Alteryx, Inc.
+TKC	Turkcell Iletisim Hizmetleri A.S.
+SPLK	Splunk Inc.
+DXCM	DexCom, Inc.
+IONS	Ionis Pharmaceuticals, Inc.
+TOELY	Tokyo Electron Limited
+HUBS	HubSpot, Inc.
+MNDY	monday.com Ltd.
+CFLT	Confluent, Inc.
+SHOP	Shopify Inc.
